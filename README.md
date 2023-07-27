@@ -1,6 +1,4 @@
-# Calender-app-in-C-by-ganesh-kavhar
-ganesh kavhar projects
-
+# Calender-app-in-C
 
 Calender app provides 4 option to users is as follows..
 
@@ -9,8 +7,3 @@ Calender app provides 4 option to users is as follows..
 3. Add Note
 4. EXIT
 ENTER YOUR CHOICE :
-
-
-
-/* User nedd to enter the entries as per requirement.*/
-
